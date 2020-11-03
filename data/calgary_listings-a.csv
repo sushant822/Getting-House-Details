@@ -1,4 +1,4 @@
-price,postal_code,address,msl,bed,full_bath,half_bath,property_area,property_type
+price,postal_code,address,mls,bed,full_bath,half_bath,property_area,property_type
 484980,T2J0G2,703 94 AVE SE,A1046628,4,2,,1025,house
 249900,T2E0L2,208 - 532 5 AVE NE,A1046342,2,2,,1065,condo
 624900,T2Y5H9,22 EVERGREEN PK SW,A1046598,5,3,1.0,2366,house
